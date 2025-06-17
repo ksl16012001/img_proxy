@@ -1,0 +1,27 @@
+{
+    "backgroundImage": {
+        "key": "fabritee/Unisex Premium T-Shirt/pre_tshirt.png",
+        "storageId": "r2"
+    },
+    "overlayImage": {
+        "key": "fabritee/Unisex Premium T-Shirt/pre_tshirt_sh.png",
+        "storageId": "r2"
+    },
+    "cropImage": {
+        "key": "fabritee/Unisex Premium T-Shirt/pre_tshirt_co.png",
+        "storageId": "r2"
+    },
+    "cropDesignImage": {
+        "key": "fabritee/Unisex Premium T-Shirt/pre_tshirt_cr.png",
+        "storageId": "r2"
+    },
+    "overlayImageColor": "#FF0000",
+    "designImagePosition": {
+        "top": 400,
+        "left": 450
+    },
+    "designImageSize": {
+        "width": 600,
+        "height": 800
+    }
+}

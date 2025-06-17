@@ -1,0 +1,27 @@
+{
+    "backgroundImage": {
+        "key": "5026deae4a86e920.png",
+        "storageId": "r2"
+    },
+    "overlayImage": {
+        "key": "77b390_sh.png",
+        "storageId": "r2"
+    },
+    "cropImage": {
+        "key": "ae6c12_co.png",
+        "storageId": "r2"
+    },
+    "cropDesignImage": {
+        "key": "7d1c3bf281e373b1.png",
+        "storageId": "r2"
+    },
+    "overlayImageColor": "#FF0000",
+    "designImagePosition": {
+        "top": 400,
+        "left": 450
+    },
+    "designImageSize": {
+        "width": 600,
+        "height": 800
+    }
+}
