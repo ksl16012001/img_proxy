@@ -17,11 +17,11 @@
     },
     "overlayImageColor": "#FF0000",
     "designImagePosition": {
-        "top": 600,
-        "left": 500
+        "top": 400,
+        "left": 450
     },
     "designImageSize": {
-        "width": 500,
-        "height": 500
+        "width": 600,
+        "height": 800
     }
 }
